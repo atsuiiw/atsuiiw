@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /> I'm atsuiiw (Pan)
 
 ### 🚀 Aspiring Developer & Tech Enthusiast
-I’m a developer passionate about building software and web applications. My goal is to become a high-impact **Website Developer** or **Software Engineer**.
+I’m an aspiring developer passionate about building software and web applications. My goal is to become a high-impact **Website Developer**, **Software Engineer** or **Game Developer**.
 
 ---
 
