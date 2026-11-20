@@ -1,37 +1,42 @@
-# Hi, I'm [atsuiiw] 👋
+<div align="center">
 
-[Aspiring computer engineer leanring Full-Stack software development]
+# Hi, I'm atsuiiw 👋
+
+Aspiring computer engineer learning full-stack software development
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/tanapan-macmyraxa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanapan.contact@gmail.com)
+
+</div>
 
 ## About Me
 
-- [Chulalongkorn University] — [2026]
-- Currently learning: [Full-Stack development]
+- 🎓 Chulalongkorn University — 2026
+- 🌱 Currently learning: Full-stack development
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, C/C++, SQL
+**Languages**<br>
+[![Languages](https://skillicons.dev/icons?i=ts,js,cpp,c)](https://skillicons.dev)
 
-**Frontend:** React,  HTML, CSS, JavaScript
+**Frontend**<br>
+[![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
-**Backend:** Node.js, Express
+**Backend & Databases**<br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase)](https://skillicons.dev)
 
-**Databases & BaaS:** PostgreSQL, MongoDB, Supabase
-
-**Tools:** Git, GitHub, Postman, Vercel, Netlify, Docker
+**Tools**<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,docker)](https://skillicons.dev)
 
 ## Featured Projects
 
-- [**[Cwenda]**]([https://github.com/atsuiiw/Cwenda-2.0]) — [Local running web-app calendar project connected with Chula's MyCourseVille]
-- [**[Kit2Code]**]([https://github.com/Kit2Code/website]) — [Competitive Programming grader frontend]
-- [**[Xpensive]**]([https://github.com/atsuiiw/Xpensive]) — [Personal income/expense dashboard]
+- [**Cwenda**](https://github.com/atsuiiw/Cwenda-2.0) — Locally run calendar web app connected to Chula's MyCourseVille
+- [**Kit2Code**](https://github.com/Kit2Code/website) — Competitive programming grader frontend
+- [**Xpensive**](https://github.com/atsuiiw/Xpensive) — Personal income/expense dashboard
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atsuiiw&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuiiw&layout=compact)
-![GitHub streak](https://streak-stats.demolab.com/?user=atsuiiw)
-
-## Contact
-
-- 💼 LinkedIn: [https://linkedin.com/tanapan-macmyraxa]
-- 📧 Email: [tanapan.contact@gmail.com]
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atsuiiw&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuiiw&layout=compact&hide_border=true" alt="Top languages" />
+</p>
