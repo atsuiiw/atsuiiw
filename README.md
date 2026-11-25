@@ -26,7 +26,7 @@ Aspiring computer engineer learning full-stack software development
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase)](https://skillicons.dev)
 
 **Tools**<br>
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,docker)](https://skillicons.dev)
 
 ## Featured Projects
 
